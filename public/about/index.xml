@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>Conference, team and association Conference:&#xA;Topic: Pass the SALT is a conference dedicated to Free Software and Security. Entrance: it is free and it will remain as is. Language: English is the language of the event in order to be able to welcome in the most comfortable way possible speakers who do not speak French and so, promote collaboration between people coming from all over the world. Current edition: 2024. Archives: 2018, 2019, 2020, 2021, 2022, 2023.</description>
+    </item>
+  </channel>
+</rss>
