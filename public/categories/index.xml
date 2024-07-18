@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pass the SALT conference</title>
-    <link>//localhost:1313/categories/</link>
+    <link>https://www.pass-the-salt.org/categories/</link>
     <description>Recent content in Categories on Pass the SALT conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.pass-the-salt.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

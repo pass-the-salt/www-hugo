@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pass the SALT conference</title>
-    <link>//localhost:1313/</link>
+    <link>https://www.pass-the-salt.org/</link>
     <description>Recent content on Pass the SALT conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.pass-the-salt.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>https://www.pass-the-salt.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>https://www.pass-the-salt.org/about/</guid>
       <description>Conference, team and association Conference :&#xA;Topic: Pass the SALT is a conference dedicated to Free Software and Security. Entrance: it is free and it will remain as is. Language: English is the language of the event in order to be able to welcome in the most comfortable way possible speakers who do not speak French and so, promote collaboration between people coming from all over the world. Current edition: 2024.</description>
     </item>
     <item>
       <title>Achievements</title>
-      <link>//localhost:1313/achievements/</link>
+      <link>https://www.pass-the-salt.org/achievements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/achievements/</guid>
+      <guid>https://www.pass-the-salt.org/achievements/</guid>
       <description>Contributions Here is a &amp;ldquo;living&amp;rdquo; list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.&#xA;2024: code - Yves Rutschle, after attending #pts22 Mickaël Salaün&amp;rsquo;s talk about Landlock, has added Landlock support to his project sslh in version 2.1.0. Thanks Yves and congrats for this implementation! 2023: idea/code - Alexandre Dulaunoy from CIRCL, decided to add OpenWRT images to CIRCL&amp;rsquo;s Hashlookup service and Free Software according to a suggestion given by Eloïse Brocas during the Q/A session of the Hashlookup talk.</description>
     </item>
     <item>
       <title>Archives</title>
-      <link>//localhost:1313/archives/</link>
+      <link>https://www.pass-the-salt.org/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/archives/</guid>
+      <guid>https://www.pass-the-salt.org/archives/</guid>
       <description>Slides, videos, interviews and pictures from Pass the SALT conference and RMLL Security tracks.&#xA;Pass the SALT We are going to populate year after year our archives with slides, videos and pictures to keep track of all the work produced by our dedicated speakers but also of memories of good vibes.&#xA;Slides: 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2018. Videos: Ubicast player &amp;amp; all files formats | MP4 video files RMLL Security tracks As said in &amp;ldquo;About&amp;rdquo; page, Pass the SALT founders have curated during 10 years the Security track of the RMLL (French generalist FLOSS conference).</description>
     </item>
   </channel>

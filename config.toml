@@ -1,5 +1,5 @@
 # Site settings
-baseURL = ""
+baseURL = "https://www.pass-the-salt.org/"
 languageCode = "en-us"
 title = "Pass the SALT conference"
 theme = "forty"
