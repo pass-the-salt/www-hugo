@@ -47,7 +47,7 @@ Here is a "living" list, certainly not exhaustive, of the contributions and inte
 
 [![orange](/images/orange.png)](https://twitter.com/orange_8361/status/1146364203390947330) [![ange](/images/ange.png)](https://twitter.com/angealbertini/status/1147805786351054849) 
 [![d4](/images/d4.png)](https://twitter.com/d4_project/status/1146400026194825216) [![proxmark](/images/proxmark.png)](https://twitter.com/RfidGroup/status/1146823265257582592) 
-[![peter](/images/pczanik.png)](https://twitter.com/PCzanik/status/1547498173622542337) 
+[![peter](/images/pczanik.png)](https://twitter.com/PCzanik/status/1547498173622542337) ![aaron](/images/aaron-gable.png)
 
 ### Speakers who came 
 
