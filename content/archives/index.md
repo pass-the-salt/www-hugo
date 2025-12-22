@@ -17,7 +17,7 @@ Slides, videos, interviews and pictures from Pass the SALT conference and RMLL S
 We are going to populate year after year our archives with slides, videos and pictures to keep track of all the work produced by our dedicated speakers but also of memories of good vibes. 
 
 * **Slides:**
-  * [2024](https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/) | [2023](https://archives.pass-the-salt.org/Pass%20the%20SALT/2023/slides/) | [2022](https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/) | [2021](https://archives.pass-the-salt.org/Pass%20the%20SALT/2021/slides/) | [2020](https://archives.pass-the-salt.org/Pass%20the%20SALT/2020/slides/) | [2019](https://archives.pass-the-salt.org/Pass%20the%20SALT/2019/slides/) | [2018](https://archives.pass-the-salt.org/Pass%20the%20SALT/2018/slides/).
+  * [2025](https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/slides/) | [2024](https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/) | [2023](https://archives.pass-the-salt.org/Pass%20the%20SALT/2023/slides/) | [2022](https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/) | [2021](https://archives.pass-the-salt.org/Pass%20the%20SALT/2021/slides/) | [2020](https://archives.pass-the-salt.org/Pass%20the%20SALT/2020/slides/) | [2019](https://archives.pass-the-salt.org/Pass%20the%20SALT/2019/slides/) | [2018](https://archives.pass-the-salt.org/Pass%20the%20SALT/2018/slides/).
 * **Videos:**
   * [Ubicast player & all files formats](https://passthesalt.ubicast.tv/) | [MP4 video files](https://archives.pass-the-salt.org/Pass%20the%20SALT/)
 
