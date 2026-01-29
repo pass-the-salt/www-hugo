@@ -10,6 +10,8 @@ nav-menu: true
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
 
+* **2025**:
+  * **research/talk** - [Guillaume Valadon](https://www.linkedin.com/in/gvaladon/) and his colleague [Gaëtan F.](https://www.linkedin.com/in/gaetan-f-a40497a4/) and [Philippe Boneff](https://www.linkedin.com/in/philbnf/) with his colleague [Roger Ng](https://www.linkedin.com/in/rogerhk/) gave each on their side a talk during #PTS25. After attending their respective talks, they met during the social event, talked a lot and started a collaboration. Finally, their joint research has been [accepted](https://rwc.iacr.org/2026/program.php) at **Real World Crypto 2026** 🎉
 * **2024**:
   * **code** - Quentin JEROME, during his [talk](https://cfp.pass-the-salt.org/pts2024/talk/VLT987/) about [Kunaï](https://why.kunai.rocks/), has received a feature request about logs rotation. He [announced](https://infosec.exchange/@kunai_project/112812265470615674), only 15 days after, that this [feature](https://why.kunai.rocks/docs/configuration#log-rotation) has been implemented! 
   * **code** - Quentin [implemented](https://github.com/kunai-project/kunai/releases/tag/v0.3.0-alpha.2) a second proposal done during the event, by [@regiteric](https://x.com/Regiteric) this time, about [Community ID](https://github.com/corelight/community-id-spec) - Congrats Quentin 👏 and thanks for the notifications 🙏
