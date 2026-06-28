@@ -10,6 +10,8 @@ nav-menu: true
 ## Contributions
 Here is a "living" list, certainly not exhaustive, of the contributions and interactions born from these moments of exchanges during our conferences.
 
+* **2026**:
+  * **research/talk/funding** - tta gave a talk about mixing transparency and online ressource archiving during #PTS25. After this proposal and sharing with the community, tta applied [successfully](https://www.prototypefund.de/en/projects/archive-transparency) to **the Prototype Fund**: he will develop a [prototype](https://archivetransparency.eu/) of the project *"archive transparency"* he presented on PTS25 stage. Congrats to him 👏
 * **2025**:
   * **research/talk** - [Guillaume Valadon](https://www.linkedin.com/in/gvaladon/) and his colleague [Gaëtan F.](https://www.linkedin.com/in/gaetan-f-a40497a4/) and [Philippe Boneff](https://www.linkedin.com/in/philbnf/) with his colleague [Roger Ng](https://www.linkedin.com/in/rogerhk/) gave each on their side a talk during #PTS25. After attending their respective talks, they met during the social event, talked a lot and started a collaboration. Finally, their joint research has been [accepted](https://rwc.iacr.org/2026/program.php) at **Real World Crypto 2026** 🎉
 * **2024**:
